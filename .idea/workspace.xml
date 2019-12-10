@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba2847e2-bc77-4e00-a2cf-dff787ebcd82" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lab_test_main_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#592#613#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab_cube.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_cube.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/lab_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab_main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/lab_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#221#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rgb_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rgb_cube.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_cube.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rgb_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/octree/rgb_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab_quantizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/octree/lab_quantizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rgb_test_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_test_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="80" column="49" lean-forward="false" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rgb_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_4IQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_4IQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_4IQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_4IQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_allIQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_4IQAs.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_main.py" />
+        <option value="$USER_HOME$/Desktop/asz.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/04score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/01score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/02score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/03score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/05score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/06score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/07score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/08score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/09score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab/10score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_main_2.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_csv.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/02score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/03score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/04score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/05score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/06score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/07score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/08score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/09score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab/10score_table.csv" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/combine_10.py" />
+        <option value="$USER_HOME$/Desktop/open_pic.py" />
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/test_rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/test_rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main_1.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_10.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main_2.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_test_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/combine_csv.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_rgb&amp;lab.py" />
+        <option value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_L.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main.py" />
+        <option value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/combine_rgb&amp;lab.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DSL_for_Color" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lai_Project-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSL_for_Color" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lai_Project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="color_quantization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSL_for_Color" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lai_Project-master" type="462c0819:PsiDirectoryNode" />
+              <item name="color_quantization" type="462c0819:PsiDirectoryNode" />
+              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="$PROJECT_DIR$/../cas771/bin/python">
+        <option name="mySdkHome" value="$PROJECT_DIR$/../cas771/bin/python" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_10" />
+      <recent name="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_10" />
+      <recent name="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_10" />
+      <recent name="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/Lab" />
+      <recent name="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/Lab" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs" />
+      <recent name="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs" />
+      <recent name="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs" />
+      <recent name="$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/lab_allIQAs" />
+      <recent name="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.combine_rgb&amp;lab">
+    <configuration name="colortheme_visualization" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_extraction/median-cut" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_extraction/median-cut/colortheme_visulization_by_colortheif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="combine_L" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_L.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="combine_median_r&amp;l" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_rgb&amp;lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="combine_rgb&amp;lab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/combine_rgb&amp;lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lab_test_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_extraction/octree" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_extraction/octree/rgb_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="octree_rgb_main" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_extraction/octree" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_extraction/octree/rgb_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="octree_rgb_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_test_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="psnr in lab_v1" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_extraction/kmeans/img_quality_assessment/psnr/lab_cs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_extraction/kmeans/img_quality_assessment/psnr/lab_cs/PSNR_in_lab_uint16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="quantization_sky" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/color_extraction/kmeans" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lai_Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_extraction/kmeans/img_quality_assessment/psnr/lab_cs/quantization_sky_float64.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="masterprojet" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="masterprojet" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="masterprojet" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="masterprojet" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="masterprojet" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="masterprojet" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="10">
+      <item index="0" class="java.lang.String" itemvalue="Python.psnr in lab_v1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.quantization_sky" />
+      <item index="2" class="java.lang.String" itemvalue="Python.colortheme_visualization" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.octree_rgb_main" />
+      <item index="5" class="java.lang.String" itemvalue="Python.octree_rgb_test" />
+      <item index="6" class="java.lang.String" itemvalue="Python.combine_median_r&amp;l" />
+      <item index="7" class="java.lang.String" itemvalue="Python.combine_L" />
+      <item index="8" class="java.lang.String" itemvalue="Python.lab_test_main" />
+      <item index="9" class="java.lang.String" itemvalue="Python.combine_rgb&amp;lab" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.combine_rgb&amp;lab" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lab_test_main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.combine_L" />
+        <item index="3" class="java.lang.String" itemvalue="Python.combine_median_r&amp;l" />
+        <item index="4" class="java.lang.String" itemvalue="Python.octree_rgb_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba2847e2-bc77-4e00-a2cf-dff787ebcd82" name="Default" comment="" />
+      <created>1528136414221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528136414221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1440" height="808" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184637" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.50528544" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22067039" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3896648" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226257" sideWeight="0.4947146" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25418994" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13528591" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.50528544" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3896648" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22067039" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226257" sideWeight="0.4947146" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184637" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13528591" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25418994" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_50/02score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_50/04score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_50/06score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_50/07score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_50/09score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/rgb_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="36" column="71" lean-forward="false" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_results/L_compare_50/01_L_score.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_50/01score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="92" column="83" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="92" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_4IQAs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_results/rgb_10/01score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_10/image2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_10/01score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_10/02score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_10/03score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_10/04score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_50/01score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_50/02score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_50/03score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#1lab_results/lab_50/04score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="110" column="32" lean-forward="false" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/lab_10/01score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/lab_10/02score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/#2lab_results/lab_10/03score_table.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_quantizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/combine_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/combine_50/image1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/combine_50/image2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/combine_50/image3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/combine_50/image4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_rgb&amp;lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="58" column="24" lean-forward="false" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_50/image1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_50/image2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_50/image3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/combine_L.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_test_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="65" column="38" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="65" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" column="82" lean-forward="false" selection-start-line="112" selection-start-column="82" selection-end-line="112" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/img_quality_assessment(IQA)/allIQAs/combine_rgb&amp;lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_test_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_test_main_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#592#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/lab_allIQAs/lab_cube.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/lab_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/median-cut/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_cube.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/rgb_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/octree/lab_quantizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_test_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="80" column="49" lean-forward="false" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/img_quality_assessment(IQA)/allIQAs/rgb_allIQAs/rgb_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_quantization/kmeans/lab_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#221#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
